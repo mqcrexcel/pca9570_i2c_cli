@@ -1,9 +1,10 @@
 Control LED using PCA9570 i2C and CLI via UART
 
-Author: Nguyen Sy Manh Quan
+Author: Nguyen Sy Manh Quan 
+
 Date modified: 18-Aug-2022
 
-The command structure should be as follows:
+The command structure should be as follows: 
 "[pattern] [color] [parameter(optional)]"
 
 Where:
