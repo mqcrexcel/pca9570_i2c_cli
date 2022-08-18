@@ -1,8 +1,8 @@
 /*
-    i2c - Scanner
+        @Project:         PCA9570 CLI
+        @Author :         Nguyen Sy Manh Quan
+        @Date modified :  18-August-2022
 */
-
-
 
 #include <stdio.h>
 #include <string.h>
